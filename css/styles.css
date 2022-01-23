@@ -1,0 +1,275 @@
+
+.navbar{
+	background-color: white;
+
+}
+.nav-link{
+	color: #E2BCB7;
+	font-family: Montserrat;
+
+}
+.text:hover{
+	color: #6C4A4A;
+}
+.nav-item{
+	padding: .5rem 1.3rem;
+}
+.nav-link:hover{
+	color:#6C4A4A;
+}
+.navbar-brand{
+	font-size: 3rem;
+	color: #C89595;
+	text-align: center;
+}
+.navbar-toggler-icon{
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(243, 217, 230)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+/* FIRST column */
+
+.pic-box{
+	text-align: center;
+}
+#title{
+	background-image: image();
+
+	width: 100%;
+	height: 550px;
+	background-image: url("https://github.com/StritePhukana/LashwithHannah/blob/main/images/background.png?raw=true");
+	color: white;
+	font-family: Montserrat;
+}
+
+.btn{
+	margin-right: 20px;
+
+
+}
+.intro{
+	padding-top: 90px;
+	height: 200px;
+
+	text-align: center;
+
+}
+
+.container{
+	padding-top: 100px;
+}
+
+
+/* SECOND column */
+
+#features{
+	padding: 3% 15%;
+}
+.feature-box{
+	text-align: center;
+	padding: 5%;
+	color: #E2BCB7;
+	font-family: 'Montserrat';
+	font-weight: bolder;
+}
+
+h3{
+	font-weight: bolder;
+	font-size: 18px;
+
+}
+p{
+	font-family: 'Nunito', sans-serif;
+	font-size: 15px;
+}
+.icon{
+	padding: 15px;
+	color:#E2BCB7;
+}
+
+.icon:hover{
+	color:#6C4A4A;
+}
+
+
+/* Testimonials Section */
+
+#testimonials{
+	text-align: center;
+	color: #C89595;
+
+}
+
+h2{
+	font-family: 'Nunito-bold', sans-serif;
+	font-size: 2rem;
+	line-height: 1.5;
+}
+
+.carousel-item{
+	padding: 3% 22%;
+
+}
+.carousel-control-next-icon{
+	background-color: #E2BCB7;
+	padding: 7% 15%;
+}
+
+.carousel-control-prev-icon{
+	background-color: #E2BCB7;
+}
+.testimonials-heading{
+	font-family: 'Nunito-bold', sans-serif;
+	width: 50%;
+	margin: auto;
+	padding: 20px 0;
+}
+
+/* Menu */
+#Welcome{
+	background-color: #EED6C4;
+
+}
+
+.Welcome-Section{
+	color: #6C4A4A;
+	line-height: 60.5px;
+	padding: 10% 8% 8% 8%;
+	transform: translate(0, 0);
+}
+.Welcome-Section h6{
+	line-height: 100px;
+}
+
+/* Service */
+.Heading-Menu{
+	text-align: center;
+	padding: 4% 0 0 0;
+	font-family: Montserrat;
+	color: #6C4A4A;
+
+}
+.btn{
+	background-color: white;
+	 border-color: #6C4A4A;
+	 color: #6C4A4A;
+	 margin-top: 90px;
+}
+
+.card{
+	background-color: white;
+	border-color: #6C4A4A;
+	color: grey;
+	padding: 3% 3%;
+	margin: auto;
+	height: 900px;
+}
+#menu{
+		padding: 0 5% 2% 5%;
+
+}
+.card-body{
+	width: 100%;
+}
+.card-title{
+	padding: 5px 0;
+	background-color: #F8E2CF;
+	color: #6C4A4A;
+	text-align: center;
+	font-family: Montserrat;
+	font-weight: bolder;
+}
+table{
+	width: 100%;
+}
+td{
+
+	width:80%;
+}
+
+
+
+.menu-section{
+	padding: 3% 2%;
+}
+/* previous work */
+.previousWork{
+	padding: 3%;
+}
+
+
+
+.btn:hover{
+	background-color: #A45C5C;
+	border-color: white;
+}
+
+
+.policy{
+	color:#6C4A4A;
+	text-align: center;
+	margin: auto;
+	height: 400px;
+	background-color: #FFF8F3;
+	display: flex;
+  justify-content: center;
+  align-items: center
+
+}
+.policy-text{
+	line-height: 5;
+}
+.policy-text h3{
+	font-size: 30px;
+	font-family: 'Montserrat';
+
+}
+
+.policy-text p{
+	font-size: 20px;
+}
+/* Bottom-Container */
+.bottom-container{
+	Padding: 3% 10%;
+	color: #6C4A4A;
+	font-family: Montserrat;
+
+}
+
+.map-container{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+}
+.map-container iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+td{
+	height:40px;
+	width: 60%;
+}
+
+#Hours h3{
+	padding: 0 0 20px 0;
+}
+
+.location h3{
+	padding: 0 0 20px 0;
+
+}
+
+
+/* footer */
+#footer{
+	text-align: center;
+	background-color: #EED6C4;
+	padding: 1%;
+}
+
+.content{
+	padding: 0 0 3% 0;
+}
